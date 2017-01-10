@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_actividad_secundaria"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.david.practicaevaluable4botones.ActividadSecundaria">
+
+    <TextView
+        android:text="@string/texto_titulo_actividadsecundaria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
+        android:id="@+id/nombre_ActividadSecundaria"
+        android:textSize="24sp"
+        android:textAlignment="textStart" />
+
+    <TextView
+        android:text="Nivel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="85dp"
+        android:id="@+id/textView_nivel"
+        android:textSize="18sp"
+        android:layout_below="@+id/nombre_ActividadSecundaria"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView_nivel"
+        android:layout_toLeftOf="@+id/nombre_ActividadSecundaria"
+        android:layout_toStartOf="@+id/nombre_ActividadSecundaria"
+        android:layout_marginTop="25dp"
+        android:id="@+id/boton_primero" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/boton_primero"
+        android:layout_toRightOf="@+id/textView_nivel"
+        android:layout_toEndOf="@+id/textView_nivel"
+        android:id="@+id/boton_segundo" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/boton_primero"
+        android:layout_alignLeft="@+id/boton_primero"
+        android:layout_alignStart="@+id/boton_primero"
+        android:layout_marginTop="21dp"
+        android:id="@+id/boton_tercero" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/boton_tercero"
+        android:layout_alignLeft="@+id/boton_segundo"
+        android:layout_alignStart="@+id/boton_segundo"
+        android:id="@+id/boton_cuarto" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:id="@+id/barraProgreso"
+        android:layout_below="@+id/boton_tercero"
+        android:layout_centerHorizontal="true"
+        android:max="100" />
+
+    <TextView
+        android:text="0/100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:id="@+id/textView_progreso"
+        android:textSize="18sp"
+        android:layout_below="@+id/barraProgreso"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

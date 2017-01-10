@@ -1,0 +1,7 @@
+#Tue Jan 10 20:37:54 CET 2017
+base.0=C\:\\Users\\David\\Documents\\PR\\PracticaEvaluable4Botones\\PracticaEvaluable4Botones\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c36bb6714da840db612882780f8882ea5c3bd641
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\David\\Documents\\PR\\PracticaEvaluable4Botones\\PracticaEvaluable4Botones\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2d409b85b2e669774d9b5f81945b19506719d4d9\\classes.dex
+base.1=C\:\\Users\\David\\Documents\\PR\\PracticaEvaluable4Botones\\PracticaEvaluable4Botones\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2d409b85b2e669774d9b5f81945b19506719d4d9
+file.0=C\:\\Users\\David\\Documents\\PR\\PracticaEvaluable4Botones\\PracticaEvaluable4Botones\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c36bb6714da840db612882780f8882ea5c3bd641\\classes.dex

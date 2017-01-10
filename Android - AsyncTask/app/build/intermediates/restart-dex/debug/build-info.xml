@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="99826238323948"
+    token="7861672660784874003" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="90620845499369"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="91085112383967"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="91676622293151"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="98594071692837"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="99826238323948" />
+
+</instant-run>

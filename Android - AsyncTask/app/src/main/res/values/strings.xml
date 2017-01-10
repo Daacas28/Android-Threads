@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticaEvaluable4Botones</string>
+    <string name="editText_nombre">Aquí tu nombre</string>
+    <string name="boton_cancelar">Cancelar</string>
+    <string name="texto_nombre">Escribe tu tag</string>
+    <string name="boton_iniciar">Iniciar</string>
+    <string name="radiobutton_normal">Normal</string>
+    <string name="radiobutton_parguela">Parguela</string>
+    <string name="texto_titulo">Prepárate para el desafio.</string>
+    <string name="textView_subtitulo">Si pierdes, eres un parguela.</string>
+    <string name="radioButton_zumbado">Zumbado</string>
+    <string name="texto_titulo_actividadsecundaria">Jugar</string>
+</resources>
