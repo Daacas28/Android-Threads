@@ -1,7 +1,7 @@
-#Tue Jan 10 20:37:54 CET 2017
-base.0=C\:\\Users\\David\\Documents\\PR\\PracticaEvaluable4Botones\\PracticaEvaluable4Botones\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c36bb6714da840db612882780f8882ea5c3bd641
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\David\\Documents\\PR\\PracticaEvaluable4Botones\\PracticaEvaluable4Botones\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2d409b85b2e669774d9b5f81945b19506719d4d9\\classes.dex
-base.1=C\:\\Users\\David\\Documents\\PR\\PracticaEvaluable4Botones\\PracticaEvaluable4Botones\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2d409b85b2e669774d9b5f81945b19506719d4d9
-file.0=C\:\\Users\\David\\Documents\\PR\\PracticaEvaluable4Botones\\PracticaEvaluable4Botones\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c36bb6714da840db612882780f8882ea5c3bd641\\classes.dex
+#Thu Jan 12 10:05:30 CET 2017
+base.0=C\:\\Users\\dam2\\Documents\\Android-Threads\\Android - AsyncTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e16818c5300f7994b168ab42961aa6db9c2b68aa
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\dam2\\Documents\\Android-Threads\\Android - AsyncTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3516969372ff70247436217ceb73a3cf9e94f547\\classes.dex
+base.1=C\:\\Users\\dam2\\Documents\\Android-Threads\\Android - AsyncTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3516969372ff70247436217ceb73a3cf9e94f547
+file.0=C\:\\Users\\dam2\\Documents\\Android-Threads\\Android - AsyncTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e16818c5300f7994b168ab42961aa6db9c2b68aa\\classes.dex

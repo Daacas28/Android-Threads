@@ -3,174 +3,174 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d53e84de989f5a393c1958930cdd852383ee313f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha8_3e9fc23fa7180e8400bec4146c0855d85c3ace15\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jar="C:\Users\dam2\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f64b2aab3fe50fe55af58cde5d05854439247090\classes.dex" />
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0d757fd2de8f1ba2971b2e143a5de083ff844f27\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="93d001113f0dd23d51e1e3f6a1dbb5122e9d5059">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c36bb6714da840db612882780f8882ea5c3bd641\classes.dex" />
+        sha1="95869b7e720b3561280a85403d744916f07f2c07">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3516969372ff70247436217ceb73a3cf9e94f547\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_0c8d74e608e9241d906a2d31a3a198e25a470a3d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha8\jars\classes.jar"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha8\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha8_771cb257732266a41d6dd7cb2f7ce48820f86ea1\classes.dex" />
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha8_f323367fe86b8be942e57751523c4913f3c68e6a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_da7fb4f80b993bdd41bcbe3d8880f0e5fa2e8c29\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_4909c5b9321b75375f2617afec00cff985557027\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c91936f27760696e0d88d7186df60bcfc9a14187\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d9a3938b60ba6f53ab075390a769bd821f8ad679">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2d409b85b2e669774d9b5f81945b19506719d4d9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_847d6325ec6d4672c42de59a7ef3b32b17cc489b\classes.dex" />
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_c688f1e96f82214d6da5e6ebbe1a6c4949539e5d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3a45a3979bb13ef286c94b66838dce9845f8dd74\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_521368d6deb628e6e0c135a506243cbac96f8d07\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_330f9b1d8f4e39c9ed582b96c5b9bf8592955fee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_2c5d38438e319f90176f696f8e58d870d7795c69\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_51a4e05887f35beac52486f2cc2dfbb2fcac5c5e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_3b111e34577fb09e3babe3463e3be44b3dbdc87e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_14ec007ce4483aaf57d77d3e1ab67d5d8b2ed6f4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\David\Documents\PR\PracticaEvaluable4Botones\PracticaEvaluable4Botones\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_33588d0ef231b439c40a8a58842de37ebf72e0b0\classes.dex" />
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4ace6ddf72b184ca265697b9f6e9f741cdb9f607\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e75c703ae9cd26616e920b1a3e84288940b19106\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a3a3e02f6fe9a5fdc8afd66a5c9ff5abcf85551b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha8_d00deab862d8d8b5e0243fdd2ed3e72fd05e36eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_31613ab62b954c4bf4fe4057ab672a982cbef206\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_ece3bc1cd7b30832b2972fd9d4e26a9f8b2129c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a3f88af2aaf3faae70e5029c5a266bb643220dc5">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e16818c5300f7994b168ab42961aa6db9c2b68aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3910c97f320a0a26d28d81175a167bafc8981737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_142d959a64c229efea39c546430c93f4d1e27caf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_a0bfb22fd27d74741b40558fa01aae99e9ccb4d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e407be853778e2551cc417a351913a76b3b4b6b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_844d0596d7b1443ebc0307872adaadc3b6d271a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f342594d7d836e17614b36fc4b4fdeca769a4c03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_0037bcb2f8c8839abdd788b38b1b69953c2b8299\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_77507a099235bd0a2d9b4deeea6606fe2fbe57a1\classes.dex" />
     </item>
 
 </items>

@@ -81,18 +81,16 @@ public class ActividadSecundaria extends AppCompatActivity implements DialogoFra
     private void aumentarNivel(int dificultad) {
         contadorBotones = 0;
 
-
-        hilos = new HilosBotones();
-
         switch (dificultad){
             case 1:
-                hilos.execute(200, 0);
+                new HilosBotones().execute(200, 0);
                 break;
             case 2:
-                hilos.execute(100, 0);
+                new HilosBotones().execute(100, 0);
                 break;
             case 3:
-                hilos.execute(50,0);
+               new HilosBotones().execute(50,0);
+                break;
         }
 
 
@@ -152,14 +150,15 @@ public class ActividadSecundaria extends AppCompatActivity implements DialogoFra
     @Override
     public void onClick(View vista) {
         Button botonPulsado = (Button) vista;
+        HilosBotones hilos = new HilosBotones();
 
 
         if (Integer.parseInt(botonPulsado.getText().toString()) == contadorBotones){
             botonPulsado.setEnabled(false);
             contadorBotones ++;
             if (contadorBotones == 4){
-                hilos.cancel(true);
-                aumentarNivel(nivel);
+                hilos.cancel(false);
+
             }
         }
     }
@@ -213,11 +212,6 @@ public class ActividadSecundaria extends AppCompatActivity implements DialogoFra
             barraProgreso.setProgress(progresoBarra[0]);
             textViewProgreso.setText(progresoBarra[0] + "/ 100");
 
-            if (progresoBarra[0] == 100) {
-                System.out.println("SE ACABO");
-                hilos.cancel(true);
-
-            }
             super.onProgressUpdate(progresoBarra);
         }
         @Override
@@ -233,14 +227,10 @@ public class ActividadSecundaria extends AppCompatActivity implements DialogoFra
         //Si se ha cancelado la tarea se ejecutará este método con el valor devuelto por doInBackgoround
         @Override
         protected void onCancelled(Integer integer) {
-            System.out.println("CIERRE FORZADO");
+            //hilos.cancel(true);
+            aumentarNivel(dificultad);
     }
     }
         }
-/*
-    @Override
-    protected Object doInBackground(Object[] params) {
-        return null;
-    }
-    */
+
 
