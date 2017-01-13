@@ -3,174 +3,174 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a9463cddbb29a1d991d52a1d2c1a24c8b19c195f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="585536af924bb0df5790718467deb7408962855b">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6349b48745fecbe8c09b631ecd9e066c4298b651\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_2d266e79154cf518eedb98229245ed089f86c9a1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3511aa7dc38b5fb7fa616881458ffcd1b657e845\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha8_3e9fc23fa7180e8400bec4146c0855d85c3ace15\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jar="C:\Users\dam2\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f64b2aab3fe50fe55af58cde5d05854439247090\classes.dex" />
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0d757fd2de8f1ba2971b2e143a5de083ff844f27\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_972825332e9a16ece94076ed75fe76ea7e2a95df\classes.dex" />
+        sha1="f0ab9faee8d099faa50cc7a69f394f9202ded248">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3516969372ff70247436217ceb73a3cf9e94f547\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_96ac5bd6cddff07ac34e820f03805a10ddd4d3db\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_4a04b1d25508dae1cd78576bec183f1d78c93219\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha8\jars\classes.jar"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha8\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha8_0e8ffb0dd6e33cc92b59427ff58316787f403943\classes.dex" />
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha8_f323367fe86b8be942e57751523c4913f3c68e6a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_787e2c6eb3c401518c1651d25531c4c6c5facc73\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_77e1a79b88e5a79964b4da594a8ab435a2fde680\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0077591381f3565ac36d3c3507d4b9d12df59322\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_041ef8a4051776db2722a5e26d352503dd6be0da\classes.dex" />
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_c688f1e96f82214d6da5e6ebbe1a6c4949539e5d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5ad42f9e9ab0cf905d932dcdced10c2e62088108\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_01ce57487367d3628c3fca9bfceda6d4a04c2f1f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="fa2ff33170fb5177a6415f9464810205f9b60885">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7e5a3b9858ee951df5990ad17a3ff2a703f5f6a8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_60519562b7ddac7941d0edf96b33dbcc9607be30\classes.dex" />
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4ace6ddf72b184ca265697b9f6e9f741cdb9f607\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e75c703ae9cd26616e920b1a3e84288940b19106\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a3a3e02f6fe9a5fdc8afd66a5c9ff5abcf85551b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha8_d00deab862d8d8b5e0243fdd2ed3e72fd05e36eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_31613ab62b954c4bf4fe4057ab672a982cbef206\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_ece3bc1cd7b30832b2972fd9d4e26a9f8b2129c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="01b30ef72d3edc5287e8c5a9d33509fdbf39c11c">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e16818c5300f7994b168ab42961aa6db9c2b68aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3910c97f320a0a26d28d81175a167bafc8981737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_142d959a64c229efea39c546430c93f4d1e27caf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_a0bfb22fd27d74741b40558fa01aae99e9ccb4d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e407be853778e2551cc417a351913a76b3b4b6b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\David\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_b55eda08f148a5a4c540efbeec099c9ccd48ba3e\classes.dex" />
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_844d0596d7b1443ebc0307872adaadc3b6d271a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f342594d7d836e17614b36fc4b4fdeca769a4c03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_0037bcb2f8c8839abdd788b38b1b69953c2b8299\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\dam2\Documents\Android-Threads\Android - AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_77507a099235bd0a2d9b4deeea6606fe2fbe57a1\classes.dex" />
     </item>
 
 </items>

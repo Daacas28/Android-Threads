@@ -83,20 +83,20 @@ public class ActividadSecundaria extends AppCompatActivity implements DialogoFra
     private void aumentarNivel(int dificultad) {
         contadorBotones = 0;
         nivel = nivel + 1;
-
+        hilos = new HilosBotones();
         //Nueva instancia de AsyncTask
         switch (dificultad){
             case 1:
                 //Ejecuto la nueva instancia de AsyncTask
-                new HilosBotones().execute(Math.round(VELOCIDAD_NOOB / nivel) , 0);
+                hilos.execute(Math.round(VELOCIDAD_NOOB / nivel) , 0);
                 break;
             case 2:
 
-                new HilosBotones().execute(VELOCIDAD_NORMAL, 0);
+                hilos.execute(VELOCIDAD_NORMAL, 0);
                 break;
             case 3:
 
-               new HilosBotones().execute(VELOCIDAD_PRO, 0);
+                hilos.execute(VELOCIDAD_PRO, 0);
                 break;
         }
 
@@ -163,7 +163,7 @@ public class ActividadSecundaria extends AppCompatActivity implements DialogoFra
             botonPulsado.setEnabled(false);
             contadorBotones ++;
             if (contadorBotones == 4){
-                hilos = new HilosBotones();
+                //hilos = new HilosBotones();
                 hilos.cancel(false);
 
 
